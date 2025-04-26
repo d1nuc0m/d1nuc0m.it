@@ -18,7 +18,7 @@ Is it a Romanian subsidiary company of the [SIP](https://en.wikipedia.org/wiki/S
 
 ## Contacts
 
-* Email me (coming soon)
+* [Email me](mailto:contact@d1nuc0m.it)
 
 ## On other websites
 
