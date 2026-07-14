@@ -16,9 +16,12 @@ aliases = ["curriculum-vitae"]
 
 ### Certifications
 
-* [Linux Foundation Certified IT Associate](https://www.credly.com/badges/cd0be9e9-9b0d-4359-8af0-e17af6cf6b9f/public_url)
-(2023)
+* [Linux Foundation Certified System Administrator (LFCS)](https://www.credly.com/badges/9337fdec-80c3-4cf7-a1c1-0b3767bb37ab/public_url) (2025/11)
 * First Certificate in English / FCE - CEFR B2 (2016)
+
+#### Expired Certifications
+
+* [Linux Foundation Certified IT Associate (LFCA)](https://www.credly.com/badges/cd0be9e9-9b0d-4359-8af0-e17af6cf6b9f/public_url) (2023/03-2026/03)
 
 ### Courses
 
